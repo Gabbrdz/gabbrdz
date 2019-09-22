@@ -5,8 +5,8 @@ description: >
   A guide to getting started with Jekyll.
 baseurl: ""
 url: "http://127.0.0.1:4000/"
-twitter_username: gabbrdz
-github_username:  gabbrdz
+twitter_username: Gabbrdz
+github_username:  Gabbrdz
 # Build Settings
 sass:
   sass_dir: _sass
