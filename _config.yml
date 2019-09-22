@@ -3,7 +3,7 @@ title: Start Jekyll
 email: rdz.gabb@gmail.com
 description: >
   A guide to getting started with Jekyll.
-baseurl: "/project-local"
+baseurl: ""
 url: "https://Gabbrdz.github.io"
 twitter_username: Gabbrdz
 github_username:  Gabbrdz
