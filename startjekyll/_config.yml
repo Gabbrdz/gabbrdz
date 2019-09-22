@@ -1,0 +1,15 @@
+# Site Settings
+title: Start Jekyll
+email: rdz.gabb@gmail.com
+description: >
+  A guide to getting started with Jekyll.
+baseurl: "/project-local"
+url: "https://gabbrdz.github.io"
+twitter_username: gabbrdz
+github_username:  gabbrdz
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
