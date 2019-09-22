@@ -4,7 +4,7 @@ email: rdz.gabb@gmail.com
 description: >
   A guide to getting started with Jekyll.
 baseurl: ""
-url: "http://127.0.0.1:4000/"
+url: "https://127.0.0.1:4000/"
 twitter_username: Gabbrdz
 github_username:  Gabbrdz
 # Build Settings
