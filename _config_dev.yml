@@ -11,5 +11,6 @@ github_username:  Gabbrdz
 sass:
   sass_dir: _sass
 include: ['_pages']
+include: ['_img']
 kramdown:
   input: GFM

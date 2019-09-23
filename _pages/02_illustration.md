@@ -5,4 +5,4 @@ permalink: /illustration/
 ---
 
 I'm an Illustrator.
-dfmfkldngldfknglnfln
+![useful image]({{ site.url }}/assets/ariel2.jpg)
