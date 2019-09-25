@@ -1,8 +1,8 @@
 # Site Settings
-title: Start Jekyll
+title: Gabriela Rodriguez
 email: rdz.gabb@gmail.com
 description: >
-  A guide to getting started with Jekyll.
+  Gabriela Rodriguez Designer & Illustrator
 baseurl: ""
 url: "https://Gabbrdz.github.io"
 twitter_username: Gabbrdz
@@ -11,5 +11,6 @@ github_username:  Gabbrdz
 sass:
   sass_dir: _sass
 include: ['_pages']
+include: ['_img']
 kramdown:
   input: GFM
